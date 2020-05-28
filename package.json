@@ -1,0 +1,14 @@
+{
+  "name": "web",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/307god/web.git",
+  "author": "sunnylinner <james_shu_sunlin@outlook.com>",
+  "license": "MIT",
+  "scripts": {
+      "serve": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
